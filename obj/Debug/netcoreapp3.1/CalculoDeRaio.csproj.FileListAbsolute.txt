@@ -1,0 +1,14 @@
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\bin\Debug\netcoreapp3.1\CalculoDeRaio.exe
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\bin\Debug\netcoreapp3.1\CalculoDeRaio.deps.json
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\bin\Debug\netcoreapp3.1\CalculoDeRaio.runtimeconfig.json
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\bin\Debug\netcoreapp3.1\CalculoDeRaio.runtimeconfig.dev.json
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\bin\Debug\netcoreapp3.1\CalculoDeRaio.dll
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\bin\Debug\netcoreapp3.1\CalculoDeRaio.pdb
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\obj\Debug\netcoreapp3.1\CalculoDeRaio.csproj.AssemblyReference.cache
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\obj\Debug\netcoreapp3.1\CalculoDeRaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\obj\Debug\netcoreapp3.1\CalculoDeRaio.AssemblyInfoInputs.cache
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\obj\Debug\netcoreapp3.1\CalculoDeRaio.AssemblyInfo.cs
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\obj\Debug\netcoreapp3.1\CalculoDeRaio.csproj.CoreCompileInputs.cache
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\obj\Debug\netcoreapp3.1\CalculoDeRaio.dll
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\obj\Debug\netcoreapp3.1\CalculoDeRaio.pdb
+C:\Users\017557631\source\repos\CalculoDeRaio\CalculoDeRaio\obj\Debug\netcoreapp3.1\CalculoDeRaio.genruntimeconfig.cache
